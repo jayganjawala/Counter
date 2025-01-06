@@ -1,5 +1,6 @@
 import logo from './logo.svg';
-import Counter from './counter';
+import Areas from './Areas';
+import './App.css'
 
 function App() {
   return (
@@ -17,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-            <Counter/>
+            <Areas/>
       </header>
     </div>
   );
